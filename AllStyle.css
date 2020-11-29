@@ -2,6 +2,10 @@
     background-color: lightgray;
     color: black;
     font-family: 'Century Gothic';
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: center;
+
 }
 
 h1 {
@@ -35,7 +39,7 @@ h2 {
 #homeimg {
     margin-left: auto;
     margin-right: auto;
-    width: 32%;
+    width: 35%;
     height: 500px;
     background-color: #a60000;
     display: block;
@@ -78,6 +82,6 @@ li {
 img {
     align-content: center;
     width: 90%;
-    height: 91%;
+    height: 93%;
     padding: 5% 5% 5% 5%;
 }
