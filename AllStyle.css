@@ -16,7 +16,7 @@ h1 {
     box-shadow: black -10px 15px;
 }
 
-#navigation {
+#box1 {
     width: 25%;
     float: left;
     height: 500px;
@@ -24,7 +24,7 @@ h1 {
     display: inline-block;
 }
 
-    #navigation:hover {
+    #box1:hover {
         background-color: blueviolet;
         transform: scale(1.1,1.1);
     }
