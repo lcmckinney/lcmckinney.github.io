@@ -1,1 +1,1 @@
-# lcmckinney.github.io
+# Lauren McKinney
