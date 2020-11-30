@@ -17,13 +17,6 @@ h2 {
     text-align: center;
 }
 
-#name {
-    font-display: block;
-    text-decoration: underline;
-    width: 400px;
-    background-color: mediumpurple;
-    box-shadow: black -10px 15px;
-}
 #box1 {
     width: 24%;
     float: left;
